@@ -1,0 +1,119 @@
+
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+39.24 / 30.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.45 / 37.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+34.84 / 26.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+40.01 / 28.69
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: reasonSeg / val
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+27.11 / 16.05
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+LLM_model: LLaVA_qwen_0.5b
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1
+Overall IoU / mean IoU
+37.11 / 26.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+LLM_model: LLaVA_qwen_0.5b
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1
+Overall IoU / mean IoU
+41.27 / 31.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+LLM_model: LLaVA_qwen_0.5b
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1
+Overall IoU / mean IoU
+30.98 / 23.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+LLM_model: LLaVA_qwen_7b
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1
+Overall IoU / mean IoU
+40.52 / 31.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+LLM_model: LLaVA_qwen_7b
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1
+Overall IoU / mean IoU
+42.96 / 33.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+LLM_model: LLaVA_qwen_7b
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1
+Overall IoU / mean IoU
+36.95 / 29.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0
+Weight_S_v: 1
+Weight_S_n: -0.7
+Overall IoU / mean IoU
+43.04 / 32.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: 0
+Overall IoU / mean IoU
+45.22 / 33.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: DuMoGa / val
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+22.34 / 22.32

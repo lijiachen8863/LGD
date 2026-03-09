@@ -1,0 +1,17 @@
+einops==0.8.2
+matplotlib==3.7.5
+nltk==3.9.1
+numpy==1.21.6
+opencv_python==4.5.5.64
+opencv_python_headless==4.5.5.64
+Pillow==9.5.0
+pycocotools==2.0.7
+PyYAML==6.0.2
+regex==2024.11.6
+salesforce_lavis==1.0.2
+segment_anything==1.0
+setuptools==58.0.4
+spacy==3.5.0
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+tqdm==4.67.1

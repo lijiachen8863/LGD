@@ -1,0 +1,89 @@
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 0
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 0
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 0.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 0.25
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 0.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 0.5
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 0.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 0.75
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 1
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 1
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 1.25
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 1.25
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 1.5
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 1.5
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 1.75
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 1.75
+
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_val.yaml     --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testA.yaml  --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco/refcoco_testB.yaml  --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_val.yaml  --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testA.yaml  --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcoco+/refcoco_p_testB.yaml  --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_g.yaml  --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_test.yaml  --Weight_S_n 2
+CUDA_VISIBLE_DEVICES=1 python llm_tas_main.py --config config/refcocog/refcocog_u_val.yaml  --Weight_S_n 2

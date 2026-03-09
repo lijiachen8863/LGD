@@ -1,0 +1,8402 @@
+
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.94 / 31.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+44.07 / 32.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+44.81 / 33.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.39 / 34.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+45.50 / 34.45
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+45.29 / 34.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.81 / 34.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.22 / 34.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.27 / 33.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.76 / 30.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+44.12 / 32.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+44.91 / 33.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.20 / 34.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+45.12 / 34.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+44.68 / 34.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+43.87 / 34.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+42.45 / 33.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+41.09 / 32.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.93 / 34.09
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.03 / 35.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.72 / 36.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.30 / 37.01
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.54 / 37.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.76 / 38.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.20 / 37.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.72 / 37.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.43 / 36.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.55 / 33.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.93 / 35.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.86 / 36.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.60 / 37.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.84 / 37.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.91 / 37.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.23 / 36.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+45.69 / 35.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+44.04 / 34.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.80 / 28.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.47 / 29.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+39.06 / 30.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+39.10 / 30.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+39.30 / 30.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+38.96 / 30.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.66 / 30.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+37.99 / 30.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.96 / 29.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+38.03 / 28.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.65 / 29.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+39.08 / 30.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+39.32 / 30.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+38.95 / 30.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+38.36 / 30.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.40 / 29.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+36.34 / 29.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+34.99 / 28.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.39 / 30.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+43.62 / 32.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+44.28 / 32.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+44.53 / 33.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+45.02 / 33.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+44.93 / 34.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.90 / 34.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.67 / 34.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.95 / 34.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+38.09 / 26.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.88 / 27.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+39.18 / 28.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+38.91 / 28.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+37.62 / 28.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+36.36 / 27.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+34.51 / 26.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+32.31 / 24.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+30.16 / 23.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.87 / 34.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.64 / 34.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.27 / 35.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.81 / 36.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.18 / 37.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.41 / 37.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.14 / 37.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.74 / 37.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.15 / 36.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+38.65 / 26.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+39.60 / 28.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+39.85 / 28.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+39.39 / 28.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+37.98 / 27.41
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+36.08 / 26.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+33.87 / 24.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+31.62 / 23.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+29.60 / 22.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.79 / 28.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.47 / 29.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+38.72 / 29.85
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+38.98 / 30.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+39.26 / 30.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+39.18 / 30.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.79 / 30.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+38.51 / 30.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+37.99 / 30.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+36.23 / 27.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+36.49 / 28.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+36.22 / 28.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+35.55 / 28.01
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+34.70 / 27.88
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+33.60 / 27.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+31.63 / 25.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+30.03 / 24.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+28.27 / 23.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+41.98 / 30.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+42.90 / 31.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+43.82 / 32.31
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+43.95 / 32.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+44.38 / 33.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+44.50 / 33.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.60 / 33.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.50 / 34.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+44.27 / 34.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.44 / 30.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+43.68 / 32.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+44.57 / 33.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+44.86 / 33.76
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+44.55 / 34.05
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+43.84 / 33.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+42.47 / 33.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+40.84 / 31.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+39.40 / 31.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.17 / 33.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.02 / 34.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.76 / 35.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.09 / 35.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.53 / 36.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.86 / 36.69
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.62 / 36.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.32 / 36.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.09 / 36.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.15 / 33.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.69 / 35.01
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.49 / 36.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.98 / 36.88
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.78 / 36.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.88 / 36.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+45.42 / 34.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+43.61 / 33.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+41.49 / 32.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.48 / 28.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+37.95 / 28.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+38.41 / 29.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+38.71 / 29.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+38.85 / 30.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+39.03 / 30.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.90 / 30.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+38.61 / 30.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+38.24 / 30.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+38.02 / 29.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.64 / 29.76
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+38.76 / 30.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+38.88 / 30.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+38.14 / 30.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.41 / 29.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+36.27 / 29.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+35.11 / 28.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+33.67 / 27.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.88 / 31.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+43.96 / 32.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.09 / 33.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.41 / 34.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+45.41 / 34.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+45.06 / 34.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.58 / 34.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+43.63 / 33.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+42.38 / 33.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+40.21 / 28.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+41.03 / 29.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+41.50 / 30.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+41.28 / 30.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+40.62 / 30.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+39.34 / 29.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.59 / 28.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+35.66 / 27.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+33.56 / 26.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.85 / 34.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.05 / 35.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.75 / 36.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.45 / 37.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.81 / 37.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.73 / 38.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.06 / 37.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.13 / 36.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.67 / 35.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+41.85 / 30.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+43.16 / 31.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+44.19 / 32.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+43.93 / 32.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+42.88 / 31.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+41.00 / 30.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.52 / 28.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+36.34 / 27.14
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+33.92 / 25.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.97 / 28.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.77 / 29.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+39.12 / 30.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+39.24 / 30.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+39.28 / 30.79
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+38.83 / 30.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.22 / 30.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+37.25 / 29.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+35.99 / 28.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.15 / 28.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+37.66 / 29.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+37.24 / 28.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+36.95 / 29.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+36.21 / 28.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+34.96 / 28.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+33.64 / 27.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+31.94 / 26.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+30.33 / 25.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.73 / 31.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+43.80 / 32.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+44.56 / 33.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.01 / 33.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+45.22 / 34.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+45.11 / 34.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.97 / 34.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.44 / 34.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.80 / 34.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.18 / 30.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+43.36 / 31.69
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+44.08 / 32.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+44.20 / 32.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+44.56 / 33.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+44.69 / 33.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.79 / 34.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.53 / 34.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+44.20 / 34.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.88 / 34.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.92 / 35.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.49 / 35.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.96 / 36.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.46 / 37.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.45 / 37.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.42 / 37.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.75 / 37.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.12 / 36.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.60 / 34.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.33 / 34.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.94 / 35.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.31 / 36.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.93 / 36.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.09 / 36.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.95 / 36.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.55 / 36.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.20 / 36.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.95 / 28.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.43 / 29.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+38.72 / 30.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+39.04 / 30.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+39.21 / 30.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+38.99 / 30.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.88 / 30.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+38.45 / 30.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+37.37 / 29.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.66 / 28.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.19 / 29.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+38.66 / 29.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+38.99 / 30.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+39.12 / 30.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+39.16 / 30.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.92 / 30.41
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+38.53 / 30.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+38.33 / 30.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+41.55 / 29.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+42.67 / 30.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+43.36 / 31.88
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+43.49 / 32.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+42.88 / 32.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+41.76 / 31.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+40.44 / 31.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+38.51 / 30.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.69 / 28.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+42.26 / 30.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+43.36 / 32.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+43.43 / 32.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+42.84 / 32.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+41.81 / 32.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+40.23 / 31.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+38.05 / 29.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+35.70 / 27.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+33.33 / 25.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.09 / 32.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.73 / 34.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.51 / 35.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.66 / 35.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+45.84 / 34.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+44.56 / 33.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+42.65 / 32.41
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+40.66 / 30.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+38.21 / 29.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.97 / 36.09
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.91 / 37.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.50 / 38.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.20 / 38.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.94 / 36.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+44.77 / 35.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+42.00 / 33.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+39.42 / 31.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.81 / 28.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+37.63 / 28.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+38.32 / 29.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+37.95 / 29.73
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+38.16 / 30.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+37.27 / 29.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+36.44 / 29.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+35.19 / 28.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+34.08 / 27.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+31.90 / 26.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+35.29 / 27.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+35.64 / 27.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+35.46 / 27.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+35.34 / 27.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+34.28 / 27.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+32.64 / 25.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+31.00 / 24.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+29.64 / 23.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+27.56 / 22.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.77 / 34.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.46 / 35.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.33 / 37.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.68 / 37.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.03 / 37.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.48 / 37.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.62 / 37.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+45.01 / 35.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.55 / 35.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.28 / 34.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.37 / 35.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.24 / 36.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.51 / 36.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.46 / 37.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.84 / 37.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.01 / 36.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.91 / 36.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.23 / 34.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.16 / 32.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.29 / 34.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.72 / 35.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.86 / 36.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.48 / 36.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+45.66 / 36.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.53 / 35.45
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+43.25 / 34.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+41.65 / 33.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.02 / 32.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+44.78 / 33.69
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.00 / 34.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+44.86 / 34.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+44.11 / 34.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+43.18 / 33.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+41.18 / 32.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+38.92 / 30.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.68 / 28.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+49.58 / 38.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+50.85 / 40.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+51.43 / 41.09
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+51.10 / 41.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+50.24 / 40.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.73 / 39.14
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.35 / 36.85
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.02 / 35.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+40.95 / 32.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+36.04 / 27.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+36.42 / 28.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+36.79 / 28.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+36.65 / 29.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+35.92 / 28.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+34.36 / 27.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+32.80 / 26.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+31.25 / 24.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+29.75 / 24.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.85 / 33.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.81 / 34.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.32 / 35.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.31 / 36.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.10 / 36.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+45.16 / 35.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+43.64 / 34.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+41.82 / 33.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+39.66 / 31.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+51.04 / 40.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+52.22 / 42.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+53.13 / 43.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+53.16 / 43.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+52.80 / 43.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+51.48 / 42.14
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+50.05 / 40.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.67 / 38.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.30 / 36.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+36.40 / 28.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+37.14 / 28.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+37.02 / 28.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+37.34 / 29.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+36.76 / 29.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+35.85 / 28.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+34.33 / 27.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+32.75 / 26.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+31.38 / 25.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.22 / 33.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.33 / 35.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.73 / 35.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.03 / 36.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.85 / 36.88
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.42 / 36.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+45.43 / 36.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+43.95 / 34.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+42.10 / 33.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+51.59 / 40.69
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+52.98 / 42.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+54.03 / 43.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+54.27 / 44.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+54.12 / 44.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+53.07 / 43.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+51.86 / 42.45
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+50.28 / 41.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.99 / 39.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+36.72 / 28.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+37.25 / 29.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+37.72 / 29.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+37.69 / 29.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+37.60 / 30.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+36.75 / 29.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+35.55 / 28.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+33.98 / 27.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+32.54 / 26.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.49 / 33.88
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.23 / 34.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.72 / 35.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.24 / 36.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.15 / 36.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.92 / 36.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.42 / 36.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+45.31 / 36.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.75 / 34.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+51.94 / 41.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+53.04 / 42.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+54.17 / 43.73
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+54.45 / 44.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+54.70 / 44.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+53.92 / 44.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+53.43 / 43.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+51.74 / 42.14
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+50.39 / 40.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+36.82 / 28.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+37.36 / 29.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+37.67 / 29.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+37.90 / 30.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+38.04 / 30.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.40 / 29.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+36.34 / 29.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+35.30 / 28.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+33.97 / 27.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.22 / 33.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.01 / 34.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.75 / 35.68
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.23 / 36.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.23 / 36.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.99 / 36.85
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.89 / 36.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.03 / 36.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.03 / 35.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+51.79 / 40.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+52.73 / 41.85
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+54.07 / 43.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+54.49 / 43.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+54.64 / 44.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+54.27 / 44.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+53.78 / 43.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+52.63 / 42.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+51.39 / 41.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+36.30 / 27.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+37.13 / 28.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+37.60 / 29.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+37.77 / 29.76
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+38.10 / 30.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.48 / 29.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.04 / 29.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+36.09 / 28.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+35.25 / 28.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.10 / 33.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.99 / 34.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.49 / 35.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.95 / 35.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.36 / 36.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.96 / 36.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.81 / 36.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.38 / 36.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.64 / 35.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+51.38 / 40.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+52.58 / 41.45
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+53.60 / 42.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+54.09 / 43.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+54.42 / 43.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+54.33 / 44.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+54.00 / 43.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+53.26 / 43.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+51.99 / 41.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+36.04 / 27.79
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+36.73 / 28.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+37.32 / 29.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+37.79 / 29.69
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+38.02 / 30.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.89 / 29.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.42 / 29.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+36.60 / 29.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+35.63 / 28.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.95 / 32.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.71 / 33.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.07 / 34.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.52 / 35.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.88 / 35.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.90 / 36.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.65 / 36.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.21 / 36.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.79 / 35.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+50.96 / 39.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+52.13 / 40.68
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+53.07 / 41.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+53.40 / 42.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+53.87 / 43.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+53.77 / 43.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+53.55 / 42.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+53.31 / 43.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+52.37 / 42.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+35.83 / 27.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+36.66 / 28.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+36.98 / 28.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+37.42 / 29.31
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+37.72 / 29.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.97 / 29.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.45 / 29.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+37.02 / 29.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.26 / 28.76
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.72 / 32.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.37 / 33.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.67 / 34.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.11 / 34.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.51 / 35.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.60 / 35.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.47 / 35.79
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.21 / 35.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.68 / 35.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+50.72 / 39.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+51.50 / 39.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+52.27 / 40.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+53.04 / 41.73
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+53.25 / 41.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+53.48 / 42.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+53.17 / 42.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+52.93 / 42.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+52.35 / 41.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+35.92 / 27.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+36.48 / 28.31
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+36.77 / 28.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+37.08 / 28.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+37.49 / 29.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.67 / 29.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.57 / 29.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+37.18 / 29.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.67 / 28.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.27 / 32.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+44.96 / 33.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.29 / 33.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.70 / 34.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.07 / 34.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.35 / 35.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.30 / 35.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.15 / 35.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.76 / 35.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+50.22 / 38.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+50.99 / 39.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+51.49 / 39.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+52.25 / 40.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+52.75 / 41.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+52.91 / 41.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+52.81 / 41.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+52.60 / 41.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+52.29 / 41.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+35.85 / 27.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+36.33 / 28.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+36.57 / 28.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+36.88 / 28.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+37.16 / 29.14
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.47 / 29.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.30 / 29.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+37.01 / 28.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.75 / 28.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+43.90 / 31.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+44.54 / 32.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.06 / 33.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.27 / 33.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+45.80 / 34.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.13 / 34.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.11 / 35.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+45.99 / 35.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / val / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.88 / 35.41
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+49.72 / 37.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+50.51 / 38.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+50.95 / 39.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+51.71 / 39.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+52.30 / 40.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+52.52 / 40.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+52.49 / 41.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+52.43 / 41.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testA / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+52.08 / 40.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+35.86 / 27.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+36.24 / 27.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+36.52 / 28.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+36.66 / 28.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+36.84 / 28.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+37.19 / 29.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+37.46 / 29.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+37.10 / 28.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcoco+ / testB / unc
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+36.66 / 28.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+47.01 / 34.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.76 / 35.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.52 / 37.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.98 / 37.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.75 / 37.85
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.16 / 37.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.43 / 37.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.41 / 36.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+44.92 / 35.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+43.56 / 35.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+41.82 / 34.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+40.05 / 32.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+38.54 / 31.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.57 / 34.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.69 / 35.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.37 / 36.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.82 / 37.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.93 / 37.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.57 / 37.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.01 / 37.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.17 / 37.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+44.86 / 35.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+43.50 / 35.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+41.88 / 33.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+40.29 / 32.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+38.71 / 31.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.48 / 33.31
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.53 / 34.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.11 / 35.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.22 / 36.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.30 / 36.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.47 / 36.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+45.69 / 36.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.43 / 35.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.23 / 34.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+41.85 / 33.68
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+40.19 / 32.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+38.39 / 31.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.1
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+36.90 / 30.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+47.09 / 34.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.94 / 35.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.52 / 37.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+49.11 / 37.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+49.23 / 38.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.74 / 37.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.15 / 37.73
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.28 / 37.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.19 / 36.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.12 / 36.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+43.55 / 35.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+41.97 / 34.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+40.44 / 33.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.73 / 34.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.76 / 35.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.35 / 36.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.94 / 37.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.12 / 37.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.04 / 37.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.67 / 37.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.83 / 37.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.99 / 36.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+44.95 / 36.05
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+43.58 / 35.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+42.10 / 33.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+40.52 / 32.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.70 / 33.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.56 / 34.69
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.07 / 35.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.28 / 36.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.20 / 36.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.91 / 36.73
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.20 / 36.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+45.40 / 35.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+44.05 / 34.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+43.09 / 34.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+41.68 / 33.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+40.40 / 32.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.2
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+38.77 / 31.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+47.00 / 34.79
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+48.09 / 36.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.58 / 36.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+49.08 / 37.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+49.31 / 38.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+49.09 / 38.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.61 / 37.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.05 / 37.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.15 / 37.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+46.05 / 36.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+44.99 / 36.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+43.51 / 35.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+42.16 / 34.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.81 / 34.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.77 / 35.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.28 / 36.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.86 / 37.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.18 / 37.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.26 / 37.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.02 / 37.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.45 / 37.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.64 / 37.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.92 / 36.85
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+44.89 / 36.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+43.48 / 34.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+42.09 / 33.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.63 / 33.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.48 / 34.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.96 / 35.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.39 / 36.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.31 / 36.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.01 / 36.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.61 / 36.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.01 / 36.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.15 / 35.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+44.12 / 35.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+43.17 / 34.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+41.64 / 33.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.3
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+40.51 / 32.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.90 / 34.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.93 / 35.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.41 / 36.68
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.91 / 37.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+49.22 / 37.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+49.18 / 37.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.99 / 38.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.48 / 37.90
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.84 / 37.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+46.95 / 37.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+45.82 / 36.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+44.90 / 35.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+43.47 / 35.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.67 / 34.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.55 / 35.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.20 / 36.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.67 / 37.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.02 / 37.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.25 / 37.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.10 / 37.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.68 / 37.88
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.26 / 37.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+46.51 / 37.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+45.72 / 36.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+44.68 / 35.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+43.43 / 34.99
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.46 / 33.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.28 / 34.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.84 / 35.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.17 / 36.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.25 / 36.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.01 / 36.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.81 / 36.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.52 / 36.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+45.69 / 36.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+44.94 / 35.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+43.91 / 34.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+42.88 / 34.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.4
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+41.62 / 33.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.96 / 34.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.77 / 35.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.27 / 36.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.68 / 36.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+49.22 / 37.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+49.21 / 37.95
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+49.07 / 37.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.63 / 37.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+48.23 / 37.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.59 / 37.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+46.90 / 37.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+45.80 / 36.57
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+44.71 / 35.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.61 / 34.14
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.27 / 35.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.05 / 35.88
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.70 / 36.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.93 / 37.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.10 / 37.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.14 / 37.68
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.89 / 37.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.39 / 37.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.00 / 37.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+46.31 / 36.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+45.46 / 36.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+44.61 / 35.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.15 / 33.05
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.03 / 34.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.75 / 35.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.05 / 35.76
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.18 / 36.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.19 / 36.53
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.08 / 36.68
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.67 / 36.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.08 / 36.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.43 / 35.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+44.57 / 35.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+43.82 / 34.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.5
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+42.68 / 34.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.83 / 34.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.69 / 35.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.13 / 36.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.62 / 36.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.94 / 37.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+49.08 / 37.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.99 / 37.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.76 / 37.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+48.39 / 37.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.85 / 37.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+47.20 / 37.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+46.55 / 36.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+45.57 / 36.24
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.37 / 33.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.08 / 34.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.82 / 35.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.33 / 36.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.82 / 36.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.91 / 37.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.13 / 37.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.87 / 37.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.38 / 37.50
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.15 / 37.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+46.71 / 37.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+46.14 / 36.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+45.26 / 36.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.17 / 33.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.90 / 34.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.39 / 34.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.84 / 35.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.00 / 35.92
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.99 / 36.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.04 / 36.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.67 / 36.41
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.25 / 36.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.48 / 35.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+45.03 / 35.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+44.31 / 34.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.6
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+43.57 / 34.49
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.65 / 34.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.54 / 35.28
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.86 / 35.74
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.29 / 36.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.67 / 37.03
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.87 / 37.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.94 / 37.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.94 / 37.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+48.48 / 37.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.92 / 37.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+47.60 / 37.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+46.88 / 36.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+46.25 / 36.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.16 / 33.60
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.05 / 34.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.56 / 35.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.12 / 36.05
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.60 / 36.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.72 / 36.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.73 / 36.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.75 / 37.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.43 / 37.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.14 / 37.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+46.84 / 37.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+46.39 / 36.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+45.77 / 36.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.97 / 32.79
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.76 / 33.80
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.15 / 34.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.61 / 34.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.70 / 35.36
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.69 / 35.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.72 / 36.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.65 / 36.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.24 / 36.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.76 / 35.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+45.13 / 35.29
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+44.68 / 34.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.7
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+44.10 / 34.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.55 / 34.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.34 / 35.01
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.75 / 35.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.00 / 36.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.44 / 36.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.76 / 37.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.85 / 37.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.82 / 37.68
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+48.44 / 37.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+48.09 / 37.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+47.56 / 37.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+47.24 / 36.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+46.71 / 36.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.97 / 33.46
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.84 / 34.43
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.32 / 35.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.86 / 35.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.26 / 36.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.53 / 36.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.69 / 36.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.71 / 37.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.56 / 37.11
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.25 / 37.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+46.91 / 37.16
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+46.58 / 36.97
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+46.10 / 36.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.85 / 32.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.62 / 33.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.98 / 34.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.32 / 34.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.45 / 35.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.48 / 35.31
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.35 / 35.37
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.54 / 35.94
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.29 / 35.93
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.89 / 35.77
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+45.36 / 35.31
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+44.93 / 35.06
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.8
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+44.45 / 34.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.45 / 34.02
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.09 / 34.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.56 / 35.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.84 / 35.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.23 / 36.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.50 / 36.83
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.66 / 37.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.74 / 37.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+48.62 / 37.61
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+48.23 / 37.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+47.81 / 37.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+47.19 / 36.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+46.94 / 36.85
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.89 / 33.38
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.57 / 34.14
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.09 / 34.75
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.61 / 35.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.99 / 35.91
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.45 / 36.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.50 / 36.67
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.61 / 36.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.49 / 36.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.31 / 37.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+47.09 / 37.12
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+46.67 / 36.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+46.33 / 36.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.72 / 32.54
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.40 / 33.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.79 / 33.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.99 / 34.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.25 / 34.70
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.34 / 35.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.23 / 35.34
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.31 / 35.62
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.19 / 35.71
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.84 / 35.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+45.47 / 35.42
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+45.07 / 35.01
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.9
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+44.67 / 34.64
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.24 / 33.80
+
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.89 / 34.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.34 / 35.09
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.75 / 35.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.20 / 36.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+48.27 / 36.63
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+48.47 / 36.89
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+48.60 / 37.23
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+48.47 / 37.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+48.21 / 37.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+47.85 / 37.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+47.33 / 36.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+46.99 / 36.66
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.67 / 33.13
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.36 / 33.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.92 / 34.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.47 / 35.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.84 / 35.76
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.33 / 36.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+47.39 / 36.58
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+47.49 / 36.73
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+47.52 / 36.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+47.25 / 36.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+47.01 / 36.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+46.95 / 37.08
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+46.46 / 36.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+44.61 / 32.44
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+45.28 / 33.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+45.66 / 33.72
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+45.96 / 34.07
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.07 / 34.40
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.14 / 34.76
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.23 / 35.15
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+46.21 / 35.35
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+46.18 / 35.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+45.87 / 35.32
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+45.66 / 35.41
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+45.27 / 35.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 1.0
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+44.85 / 34.84
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+46.77 / 34.55
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+47.46 / 35.65
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+48.33 / 37.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+48.68 / 37.56
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+48.03 / 37.25
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+47.48 / 37.17
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.62 / 37.00
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+45.01 / 35.96
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.55 / 35.19
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+41.48 / 33.78
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+39.65 / 32.48
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+37.99 / 31.22
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / google
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+36.44 / 30.10
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.28 / 34.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.37 / 35.26
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+47.24 / 36.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+47.51 / 36.98
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+47.46 / 37.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+46.84 / 37.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+46.01 / 36.81
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+44.91 / 36.04
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+43.23 / 34.82
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+41.62 / 33.52
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+39.85 / 32.21
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+38.13 / 30.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / test / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+36.18 / 29.31
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.0
+Overall IoU / mean IoU
+45.16 / 32.87
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.25
+Overall IoU / mean IoU
+46.29 / 34.59
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.5
+Overall IoU / mean IoU
+46.72 / 35.47
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -0.75
+Overall IoU / mean IoU
+46.86 / 36.18
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.0
+Overall IoU / mean IoU
+46.48 / 36.39
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.25
+Overall IoU / mean IoU
+45.66 / 36.20
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.5
+Overall IoU / mean IoU
+44.53 / 35.45
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -1.75
+Overall IoU / mean IoU
+43.25 / 34.51
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.0
+Overall IoU / mean IoU
+41.65 / 33.30
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.25
+Overall IoU / mean IoU
+39.94 / 32.33
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.5
+Overall IoU / mean IoU
+38.05 / 30.86
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -2.75
+Overall IoU / mean IoU
+36.03 / 29.27
+
+ Model: S_l+S_v+Our_S_n(blur_crop+fuse)(ViT-B)
+Dataset: refcocog / val / umd
+Weight_S_l: 0.0
+Weight_S_v: 1
+Weight_S_n: -3.0
+Overall IoU / mean IoU
+34.34 / 28.04
